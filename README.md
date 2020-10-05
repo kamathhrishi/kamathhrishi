@@ -1,4 +1,6 @@
-### Hi there 👋 , I just learnt how to add a README while I was procastrinating. I will come back and update this soon. 
+### Hi there 👋. 
+
+I just learnt how to add a README to my Github profile while I was procastrinating. I will come back and update this soon
 
 <!--
 **kamathhrishi/kamathhrishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
